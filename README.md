@@ -1,0 +1,94 @@
+# ナノ – The Crossing
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Our past was never perfect
+We've made mistakes
+along the way
+We've taken too many turns
+when the road was straight
+So that the way could last a
+little longer
+The end of the road is looming
+ahead
+And I pray to find way for me to
+make the clock reset
+I pray that our time could
+last another day
+As long as the flowers
+in this room
+Continue to stay
+in bloom for you
+Together we'll run until was
+reach the end
+You promised me
+you'd never let me go
+You promised me you'd always
+stay with me
+if I'm by your side,
+you said you'd breathe for me
+But in your eyes you stay
+you have to go
+You're crying tears
+that only I can see
+Don't let it go
+Don't let the light go
+The future is never perfect
+It's always harder than it seems
+There's no one to prove to us
+what's wrong or right
+We need to find the answer for
+tomorrow
+In the end we know
+with every obstracle
+We grow a little wiser
+and we rise up stronger yet
+Our moment to shine is
+sure to come
+As long as
+the flowers in this room
+Continue to stay
+in bloom for you
+Together we'll write a better
+story's end
+I promised you
+I'd never let you go
+I promised you
+I'd always stay with you
+If you're by my side,
+I'd be the breath in you
+But deep inside
+I'm scared to let you go
+I don't know
+how to make it on my own
+I want you to know
+I want you to know now
+Pray, forever and always
+Stay, forever and always
+You, such a beatiful memory
+will remain alive in this moment
+Pray, forever and always
+Stay, forever and always
+Life, even if it should
+leave you
+Love, will never be broken
+As gentry as
+the final petal falls
+You close your eyes as
+if you're in a sleep
+It's then that I know
+The crossing is here
+You promised me
+you'd never let me go
+You promised me
+you'd always stay with me
+if I'm by your side, you said
+you'd breathe for me
+But even if this moment has
+come to pass
+And even if there words
+will by my last
+I won't say goodbye
+I'll never say goodbye
+```
