@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "The Crossing",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T15:22:26.030593Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Crossing (Osiyeza)",
+      "artist": "Johnny Clegg & Savuka",
+      "has_synced": true,
+      "path": "select/01_The_Crossing_(Osiyeza)_Johnny_Clegg_&_Savuka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Crossing (Osiyeza)",
+      "artist": "Johnny Clegg and Savuka",
+      "has_synced": true,
+      "path": "select/02_The_Crossing_(Osiyeza)_Johnny_Clegg_and_Savuka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Crossing (Ooh The Action)",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/03_The_Crossing_(Ooh_The_Action)_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Queen's Rebuke/The Crossing",
+      "artist": "The Decemberists",
+      "has_synced": true,
+      "path": "select/04_The_Queen's_Rebuke_The_Crossing_The_Decemberists.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Queen's Rebuke \u0000 The Crossing",
+      "artist": "The Decemberists",
+      "has_synced": true,
+      "path": "select/05_The_Queen's_Rebuke_\u0000_The_Crossing_The_Decemberists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Crossing",
+      "artist": "Leaves' Eyes",
+      "has_synced": true,
+      "path": "select/06_The_Crossing_Leaves'_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Crossing",
+      "artist": "Leaves’ Eyes",
+      "has_synced": true,
+      "path": "select/07_The_Crossing_Leaves’_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Crossing",
+      "artist": "Necrophobic",
+      "has_synced": true,
+      "path": "select/08_The_Crossing_Necrophobic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "At the Crossing Sign",
+      "artist": "St.Arnaud",
+      "has_synced": true,
+      "path": "select/09_At_the_Crossing_Sign_St.Arnaud.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Crossing",
+      "artist": "Valis Ablaze",
+      "has_synced": false,
+      "path": "select/10_The_Crossing_Valis_Ablaze.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Crossing",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_The_Crossing_ナノ.txt"
+    }
+  ]
+}
